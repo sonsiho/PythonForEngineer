@@ -20,3 +20,13 @@ https://colab.research.google.com/drive/1fak8wTZFgGc7puqOKb61lIdxqlmYWIHS
 ### Jupyter Notebook:
 
 Exercise2.ipynb
+
+## Bài 3
+
+### Link colab: 
+
+https://colab.research.google.com/drive/1jJCfLOkaA-iDiaC6tPqflO62Ui7VOMCJ
+
+### Jupyter Notebook:
+
+Exercise3.ipynb
