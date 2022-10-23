@@ -30,3 +30,13 @@ https://colab.research.google.com/drive/1jJCfLOkaA-iDiaC6tPqflO62Ui7VOMCJ
 ### Jupyter Notebook:
 
 Exercise3.ipynb
+
+## Assignment
+
+### Link colab: 
+
+https://colab.research.google.com/drive/1VrefXyoBjbbddjtM9AFAihEhWwZnj36U
+
+### Jupyter Notebook:
+
+Assignment.ipynb
