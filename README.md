@@ -34,7 +34,7 @@ https://colab.research.google.com/drive/1jJCfLOkaA-iDiaC6tPqflO62Ui7VOMCJ
 
 ### Link colab: 
 
-https://colab.research.google.com/drive/1VrefXyoBjbbddjtM9AFAihEhWwZnj36U
+https://colab.research.google.com/drive/144U0wP64_co0KZMbEIy5zDjuG5D0eXxM
 
 ### Jupyter Notebook:
 
